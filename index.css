@@ -1,0 +1,18 @@
+
+.container{
+    text-align: center;
+}
+button{
+    border-radius: 3em;
+    color: white;
+    background: rgb(19, 26, 26);
+    padding: 2em;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+}
+.message {
+    margin: 2em;
+    font-size: 2em;
+    font-family: 'Press Start 2P', cursive;
+    color:black
+}
